@@ -3,7 +3,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ivqueiroga" alt="ivqueiroga" /></a> </p>
 
-- 🔭 I’m currently working on a personal project called [Pixel Frame](https://github.com/ivqueiroga/Pixel-Frame)
+- 🔭 I’m currently working on a personal project called [
+PixelFrame-React-Native](https://github.com/ivqueiroga/PixelFrame-React-Native)
 
 - 🌱 I’m currently learning **React Native and C++**
 
